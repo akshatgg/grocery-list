@@ -25,6 +25,7 @@ function App() {
         {
           id: 2,
           checked: false,
+          
           hidden: false,
           item: "Blue Lagoon",
           price: 450,
@@ -89,11 +90,9 @@ function App() {
 
   const removeFromBasket = (id) => {
     const newBasket = basket.filter((item) => item.id !== id);
-
     setBasket(newBasket);
     storeBasket(newBasket);
     updateBasketLength(newBasket.length);
-    
   };
 
 

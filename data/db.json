@@ -1,0 +1,26 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "checked": false,
+        "hidden": false,
+        "item": "Old Mong",
+        "price": 200
+      },
+      {
+        "id": 2,
+        "checked": false,
+        "hidden": false,
+        "item": "Blue Lagoon",
+        "price": 450
+      },
+      {
+        "id": 3,
+        "checked": false,
+        "hidden": false,
+        "item": "Buttvizer",
+        "price": 200
+      }
+    ]
+  }
+  
