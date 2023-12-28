@@ -26,6 +26,7 @@ function App() {
           id: 2,
           checked: false,
           
+          
           hidden: false,
           item: "Blue Lagoon",
           price: 450,
